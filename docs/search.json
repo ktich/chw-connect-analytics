@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CHW Connect: Usage Analytics",
+    "section": "",
+    "text": "Kim Tichmann · Data & Product Strategy Lead - ECD Connect, DGMT"
+  },
+  {
+    "objectID": "index.html#context",
+    "href": "index.html#context",
+    "title": "CHW Connect: Usage Analytics",
+    "section": "Context",
+    "text": "Context\nCHW Connect is a digital platform supporting community health workers (CHWs) to register clients, log visits, track child development, and run breastfeeding clubs. It operates within Grow Great’s CHW programme across four provinces in South Africa.\nThis analysis covers all registered CHWs from launch through May 2026. CHWs are salaried workers operating within a structured programme, not self-directed practitioners choosing whether to adopt a tool. This shapes how the data should be read: usage patterns reflect programme decisions as much as individual behaviour."
+  },
+  {
+    "objectID": "index.html#platform-scale",
+    "href": "index.html#platform-scale",
+    "title": "CHW Connect: Usage Analytics",
+    "section": "Platform scale",
+    "text": "Platform scale\nCHW Connect has operated across four provinces. Gauteng and Limpopo ran time-limited pilots which have since concluded. Mpumalanga and Western Cape are the two active provinces where the programme is ongoing.\n\n\n\n341\n\n\nRegistered CHWs (all provinces, all time)\n\n\n\n\n264\n\n\nCHWs in live provinces (Mpumalanga & Western Cape)\n\n\n\n\n58\n\n\nActive in last 30 days\n\n\n\n\n9,118\n\n\nChild clients registered\n\n\n\n\n3,224\n\n\nPregnant clients registered\n\n\n\n\n81,607\n\n\nTotal visits completed\n\n\n\nThe 341 total includes CHWs from the concluded Gauteng and Limpopo pilots. For active programme analysis, the relevant base is the 264 CHWs in Mpumalanga and Western Cape, of whom 58 (22%) were active in the last 30 days. The visit volume, 81,607 across all provinces and all time, reflects the cumulative work of a small consistently active group."
+  },
+  {
+    "objectID": "index.html#part-1-engagement-by-province",
+    "href": "index.html#part-1-engagement-by-province",
+    "title": "CHW Connect: Usage Analytics",
+    "section": "Part 1: Engagement by province",
+    "text": "Part 1: Engagement by province"
+  },
+  {
+    "objectID": "index.html#the-chart-below-shows-engagement-status-for-chws-in-mpumalanga-and-western-cape.",
+    "href": "index.html#the-chart-below-shows-engagement-status-for-chws-in-mpumalanga-and-western-cape.",
+    "title": "CHW Connect: Usage Analytics",
+    "section": "The chart below shows engagement status for CHWs in Mpumalanga and Western Cape.",
+    "text": "The chart below shows engagement status for CHWs in Mpumalanga and Western Cape.\n\n\n\n\n\n\n\n\n\n\nReading the chart\nThe two live provinces are Mpumalanga and Western Cape. Of 152 Mpumalanga CHWs, 33 were active in the last 30 days (22%). Of 112 Western Cape CHWs, 25 were active (22%).\n\n\nActive use is concentrated in a small group\n\n\nThe majority of registered CHWs are churned or at risk. 22% active in both Mpumalanga and Western Cape suggests a stable core of consistent users rather than broad adoption across the workforce. The visit volume data suggests this core is highly active."
+  },
+  {
+    "objectID": "index.html#part-2-visit-consistency",
+    "href": "index.html#part-2-visit-consistency",
+    "title": "CHW Connect: Usage Analytics",
+    "section": "Part 2: Visit consistency",
+    "text": "Part 2: Visit consistency\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading the charts\nVisit volumes have varied significantly over time, with Mpumalanga accounting for the majority throughout. A notable spike in October 2024, reaching over 200 average visits per active CHW, likely reflects retrospective data entry rather than visits completed in that month. The causes of the broader volume patterns are not fully understood from platform data alone and will be explored with the Grow Great programme team.\n\n\nActive CHWs in Mpumalanga are logging significantly more visits\n\n\nMpumalanga CHWs who are active consistently average 50-80 visits per month, with the exception of the October 2024 spike. Western Cape active CHWs average 5-15 visits per month throughout the same period. The gap is consistent and substantial. Whether this reflects different programme intensity, different caseload sizes, or different data entry practices is worth exploring with the programme team.\n\n\n\n\nThe active core is using the tool regularly\n\n\nDespite low overall activation rates, CHWs who are active show consistent month-on-month visit logging rather than occasional use. This suggests the platform fits into the workflow of CHWs who are using it, even if broader adoption across the workforce has not materialised."
+  },
+  {
+    "objectID": "index.html#part-3-client-load",
+    "href": "index.html#part-3-client-load",
+    "title": "CHW Connect: Usage Analytics",
+    "section": "Part 3: Client load",
+    "text": "Part 3: Client load\nHow many clients are CHWs managing, and how is that distributed across the workforce?\n\n\n\n\n\n\n\n\n\n\nReading the chart\nIn Mpumalanga, average child clients per CHW is 40.5 but the median is 17. A small number of CHWs are carrying very large caseloads, up to 223 child clients for one CHW, while the majority have far fewer. Western Cape shows a similar but less extreme pattern (average 16.7, median 13). For pregnant clients both provinces show a smaller gap between average and median, suggesting more even distribution of maternity caseloads.\n\n\nCaseloads are unevenly distributed\n\n\nThe average vs median gap in Mpumalanga confirms the super-user pattern: a small number of CHWs are driving a disproportionate share of client registrations and likely visit volume too. Whether this reflects programme design (some CHWs assigned larger areas) or differential engagement (some CHWs are more active than others) is worth investigating at the programme level."
+  },
+  {
+    "objectID": "index.html#part-4-feature-adoption",
+    "href": "index.html#part-4-feature-adoption",
+    "title": "CHW Connect: Usage Analytics",
+    "section": "Part 4: Feature adoption",
+    "text": "Part 4: Feature adoption\n\n\n\n\n\n\n\n\n\n\nReading the chart\nRegistering clients and logging visits are the most widely adopted actions on the platform. In Mpumalanga, 100% of CHWs have registered at least one child client and 90.1% have logged a child visit. Western Cape shows similar patterns at 92% and 72.3% respectively. Pregnant client registration and visit logging follow a similar pattern in both provinces.\nBreastfeeding clubs sit lower in the adoption picture: 38.8% of Mpumalanga CHWs and 35.7% of Western Cape CHWs have run at least one club. In absolute terms Mpumalanga has logged 1,421 clubs and Western Cape 238, with an average of around 5 attendees per club. Calendar usage sits at a similar level to breastfeeding clubs (36.8% in Mpumalanga and 35.7% in Western Cape) suggesting a consistent subset of CHWs are using the platform beyond the core features.\n\n\nCore workflow features have strong adoption\n\n\nClient registration and visit logging are embedded across the active CHW workforce in both live provinces. Among CHWs who are active, the platform is being used for its core intended purpose. The high client registration rate in Mpumalanga (100%) suggests that registering clients on the platform has become a standard part of the CHW workflow there.\n\n\n\n\nBreastfeeding clubs are a meaningful secondary feature\n\n\nWhile breastfeeding club adoption is lower than core workflow features, the absolute numbers are significant. 1,421 clubs logged in Mpumalanga represents sustained use of a feature that helps CHWs organise and record group-based activities. The similar adoption rates in both provinces (38.8% vs 35.7%) suggest this feature resonates across different programme contexts."
+  },
+  {
+    "objectID": "index.html#part-5-team-lead-activity",
+    "href": "index.html#part-5-team-lead-activity",
+    "title": "CHW Connect: Usage Analytics",
+    "section": "Part 5: Team Lead activity",
+    "text": "Part 5: Team Lead activity\n\n\n\n\n\n\n\n\n\n\nReading the chart\nTeam Lead engagement is low across all provinces. Mpumalanga has 9 Team Leads with an average of 438 days since last seen, over a year. Western Cape is more active at 133 days average, with 3 of 4 Team Leads showing some activity in the last 90 days. The Team Lead layer appears to be largely dormant as a platform feature.\n\n\nTeam Leads are not using the platform\n\n\nThe supervisory layer intended to support CHWs is not active on the platform in most provinces. Whether this reflects a deliberate decision to use other supervision channels, or simply that the platform does not yet offer enough value for Team Leads to log in regularly, is worth understanding before designing a supervision feature into a new build."
+  },
+  {
+    "objectID": "index.html#implications",
+    "href": "index.html#implications",
+    "title": "CHW Connect: Usage Analytics",
+    "section": "Implications",
+    "text": "Implications\nCHW Connect serves a different user population from ECD Connect practitioners, and the usage patterns reflect that. CHWs are salaried workers operating within a structured programme. Their platform use is shaped primarily by programme decisions, not individual choice.\nFour findings stand out.\n\n1. Active CHWs have integrated the platform into their workflow\nAmong CHWs who are active, the data shows consistent and broad feature use. In Mpumalanga, 100% of CHWs have registered at least one child client and 90.1% have logged a child visit. Western Cape shows similar patterns. This is not surface-level engagement — CHWs who use the platform are using it for its core purpose. The challenge is not product fit for active users but activation across the wider workforce.\n\n\n2. A small group is driving most of the activity\nThe gap between average and median client loads in Mpumalanga (40.5 vs 17 child clients) confirms that a small number of CHWs are carrying a disproportionate share of registrations and visit volume. 81,607 total visits from a workforce where only 22% were active in the last 30 days points to a concentrated pattern of use. Whether this reflects programme design or differential engagement is worth understanding before drawing conclusions about overall platform adoption.\n\n\n3. Secondary features show consistent minority adoption\nBreastfeeding clubs and calendar usage both sit at around 35-39% in live provinces — lower than core workflow features but consistent across provinces and programme contexts. These features are used by a meaningful subset of CHWs who have gone beyond basic data entry. The similar adoption rates across two quite different provinces suggests these features fit naturally into CHW workflows where they are used.\n\n\n4. The Mpumalanga and Western Cape visit gap needs explanation\nActive CHWs in Mpumalanga average 50-80 visits per month while Western Cape active CHWs average 5-15. Both provinces have similar CHW numbers and similar feature adoption rates. The cause of this visit volume gap is not visible in the platform data and will be explored with the Grow Great programme team.\n\n\nWhat this means for a new build\n\n\nA platform serving CHWs needs to be designed around programme integration rather than individual adoption. The features that have seen the broadest use map directly onto existing programme requirements: client registration, visit logging, breastfeeding club recording. Any new build should be designed in close collaboration with programme teams to ensure the tool fits into workflows CHWs are already required to follow, and should not assume that a well-designed product alone will drive adoption across the workforce."
+  },
+  {
+    "objectID": "index.html#methodology-note",
+    "href": "index.html#methodology-note",
+    "title": "CHW Connect: Usage Analytics",
+    "section": "Methodology note",
+    "text": "Methodology note\nAll data is aggregate and anonymised. No individual CHW, client, or child data is reported. Analysis covers CHW Connect from launch through May 2026. CHWs are deduplicated by phone number. Active is defined as having logged in within the specified time window. Gauteng and Limpopo data reflects pilot periods only; both pilots have ended.\n\nAnalysis by Kim Tichmann, Data & Product Strategy Lead, ECD Connect, DGMT.\nCHW Connect is a product of DGMT in partnership with Grow Great. All views are those of the author."
+  }
+]
