@@ -38,9 +38,7 @@ library(scales)
 
 ## Context
 
-CHW Connect is a digital platform supporting community health workers (CHWs) to register clients, log visits, track child development, and run breastfeeding clubs. It operates within Grow Great's CHW programme across four provinces in South Africa.
-
-This analysis covers all registered CHWs from launch through May 2026. CHWs are salaried workers operating within a structured programme, not self-directed practitioners choosing whether to adopt a tool. This shapes how the data should be read: usage patterns reflect programme decisions as much as individual behaviour.
+CHW Connect is a digital platform supporting community health workers (CHWs) to register clients, log visits, track child development, and run breastfeeding clubs. It operates within Grow Great Champion's CHW programme across four provinces in South Africa, two of which ran time-limited pilots that have since concluded. This analysis covers all registered CHWs from launch through May 2026.
 
 ---
 
@@ -64,6 +62,7 @@ The 341 total includes CHWs from the concluded Gauteng and Limpopo pilots. For a
 ## Part 1: Engagement by province
 
 The chart below shows engagement status for CHWs in Mpumalanga and Western Cape.
+
 ---
 
 ```{r engagement-province}
@@ -241,7 +240,7 @@ Visit volumes have varied significantly over time, with Mpumalanga accounting fo
 
 <div class="insight-box teal">
 <p class="insight-label">Active CHWs in Mpumalanga are logging significantly more visits</p>
-<p>Mpumalanga CHWs who are active consistently average 50-80 visits per month, with the exception of the October 2024 spike. Western Cape active CHWs average 5-15 visits per month throughout the same period. The gap is consistent and substantial. Whether this reflects different programme intensity, different caseload sizes, or different data entry practices is worth exploring with the programme team.</p>
+<p>Mpumalanga CHWs who are active consistently average 50-80 visits per month, with the exception of the October 2024 spike. Western Cape active CHWs average 5-15 visits per month throughout the same period. Whether this reflects different programme intensity, different caseload sizes, or different data entry practices is worth exploring with the programme team.</p>
 </div>
 
 <div class="insight-box green">
@@ -322,7 +321,7 @@ In Mpumalanga, average child clients per CHW is 40.5 but the median is 17. A sma
 
 <div class="insight-box teal">
 <p class="insight-label">Caseloads are unevenly distributed</p>
-<p>The average vs median gap in Mpumalanga confirms the super-user pattern: a small number of CHWs are driving a disproportionate share of client registrations and likely visit volume too. Whether this reflects programme design (some CHWs assigned larger areas) or differential engagement (some CHWs are more active than others) is worth investigating at the programme level.</p>
+<p>The average vs median gap in Mpumalanga confirms the super-user pattern: a small number of CHWs are driving a disproportionate share of client registrations. Whether this reflects programme design (some CHWs assigned larger areas) or differential engagement (some CHWs are more active than others) is worth investigating at the programme level.</p>
 </div>
 
 ---
@@ -489,13 +488,9 @@ Team Lead engagement is low across all provinces. Mpumalanga has 9 Team Leads wi
 
 ## Implications
 
-CHW Connect serves a different user population from ECD Connect practitioners, and the usage patterns reflect that. CHWs are salaried workers operating within a structured programme. Their platform use is shaped primarily by programme decisions, not individual choice.
-
-Four findings stand out.
-
 ### 1. Active CHWs have integrated the platform into their workflow
 
-Among CHWs who are active, the data shows consistent and broad feature use. In Mpumalanga, 100% of CHWs have registered at least one child client and 90.1% have logged a child visit. Western Cape shows similar patterns. This is not surface-level engagement — CHWs who use the platform are using it for its core purpose. The challenge is not product fit for active users but activation across the wider workforce.
+Among CHWs who are active, the data shows consistent and broad feature use. In Mpumalanga, 100% of CHWs have registered at least one child client and 90.1% have logged a child visit. Western Cape shows similar patterns. The challenge is sustained use across the wider workforce.
 
 ### 2. A small group is driving most of the activity
 
@@ -503,16 +498,11 @@ The gap between average and median client loads in Mpumalanga (40.5 vs 17 child 
 
 ### 3. Secondary features show consistent minority adoption
 
-Breastfeeding clubs and calendar usage both sit at around 35-39% in live provinces — lower than core workflow features but consistent across provinces and programme contexts. These features are used by a meaningful subset of CHWs who have gone beyond basic data entry. The similar adoption rates across two quite different provinces suggests these features fit naturally into CHW workflows where they are used.
+Breastfeeding clubs and calendar usage both sit at around 35-39% in live provinces, lower than core workflow features but consistent across provinces. These features are used by a meaningful subset of CHWs. The similar adoption rates across two different provinces suggests these features fit naturally into CHW workflows where they are used.
 
 ### 4. The Mpumalanga and Western Cape visit gap needs explanation
 
 Active CHWs in Mpumalanga average 50-80 visits per month while Western Cape active CHWs average 5-15. Both provinces have similar CHW numbers and similar feature adoption rates. The cause of this visit volume gap is not visible in the platform data and will be explored with the Grow Great programme team.
-
-<div class="insight-box navy">
-<p class="insight-label">What this means for a new build</p>
-<p>A platform serving CHWs needs to be designed around programme integration rather than individual adoption. The features that have seen the broadest use map directly onto existing programme requirements: client registration, visit logging, breastfeeding club recording. Any new build should be designed in close collaboration with programme teams to ensure the tool fits into workflows CHWs are already required to follow, and should not assume that a well-designed product alone will drive adoption across the workforce.</p>
-</div>
 
 ---
 
@@ -524,4 +514,4 @@ All data is aggregate and anonymised. No individual CHW, client, or child data i
 
 *Analysis by Kim Tichmann, Data & Product Strategy Lead, ECD Connect, DGMT.*
 
-*CHW Connect is a product of [DGMT](https://dgmt.co.za) in partnership with Grow Great. All views are those of the author.*
+*CHW Connect is a product of the ECD Connect project at DGMT in partnership with Grow Great. All views are those of the author.*
